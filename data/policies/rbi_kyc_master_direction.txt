@@ -1,0 +1,5 @@
+RBI KYC guidelines require banks to verify identity and address of customers using officially valid documents such as Aadhaar, PAN, passport, voter ID, or driving licence, subject to current RBI rules.
+
+Banks must periodically update KYC for existing customers, especially when risk category or address changes. Customers may be asked to submit updated documents or self-declarations in line with RBI norms.
+
+No bank staff or third party is allowed to ask customers to share OTP, PIN, CVV, or full card details as part of KYC or account verification.
